@@ -4,10 +4,4 @@ Added something new.
 
 Some extension.
 
-
-Blah.
-
-
-Back again, this will rock.
-
-
+Again and again.
